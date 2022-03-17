@@ -6,7 +6,7 @@ ooo        ooooo    oooo   .oooooo.   ooooo        ooooo      ooo ooooo oooooooo
  8  `888'   888      888 888      888  888          8     `88b.8   888   888`88b.    
  8    Y     888      888 `88b    d88'  888       o  8       `888   888   888  `88b.  
 o8o        o888o .o. 88P  `Y8bood8P'  o888ooooood8 o8o        `8  o888o o888o  o888o 
-                 `Y888P                                                                                                                                                                                                                                      
+                 `Y888P
 ```
 
 # Mjolnir ![](https://img.shields.io/badge/Version-1.0-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)

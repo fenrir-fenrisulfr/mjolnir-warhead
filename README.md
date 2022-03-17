@@ -27,8 +27,8 @@ o8o        o888o .o. 88P  `Y8bood8P'  o888ooooood8 o8o        `8  o888o o888o  o
  
 ## Install
 
-    pip3 install -r requirements.txt
     git clone https://github.com/fenrir-fenrisulfr/mjolnir-warhead.git
+    pip3 install -r requirements.txt
     cd mjolnir-warhead
 
 ## Usage
